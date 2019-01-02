@@ -1,6 +1,6 @@
 # BlueID
-Here are some files related to BlueID project.
-Please cite this work as:
+- Here are some files related to BlueID project.
+- Please cite this work as:
 - @INPROCEEDINGS{6848235,
 author={J. Huang and W. Albazrqaoe and G. Xing},
 booktitle={IEEE INFOCOM 2014 - IEEE Conference on Computer Communications},
